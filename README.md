@@ -13,8 +13,11 @@ Basic statistical tests to understand relationships with charges
 # Key Findings
 
 Smoker status has the strongest impact on insurance charges — smokers pay significantly more.
+
 Age and BMI are positively correlated with charges (older individuals and higher BMI → higher cost).
+
 Region has a smaller effect compared to other features.
+
 Feature engineering (BMI category + encoding) helps prepare the data for machine learning models.
 
 # Tools Used
