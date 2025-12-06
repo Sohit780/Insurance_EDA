@@ -5,10 +5,30 @@ This project contains exploratory data analysis (EDA) on a medical insurance dat
 # Summary
 
 The notebook includes:
+
 Data loading and cleaning
+
 Visual analysis of age, BMI, smoker status, region, etc.
+
 Feature engineering (BMI categories, encoding)
+
 Basic statistical tests to understand relationships with charges
+
+# Tools Used
+
+Python
+
+Jupyter Notebook
+
+Pandas – data handling
+
+NumPy – numerical operations
+
+Matplotlib & Seaborn – data visualization
+
+SciPy – correlation & chi-square tests
+
+Scikit-learn – preprocessing and feature engineering
 
 # Key Findings
 
@@ -19,14 +39,3 @@ Age and BMI are positively correlated with charges (older individuals and higher
 Region has a smaller effect compared to other features.
 
 Feature engineering (BMI category + encoding) helps prepare the data for machine learning models.
-
-# Tools Used
-
-Python
-Jupyter Notebook
-Pandas – data handling
-NumPy – numerical operations
-Matplotlib & Seaborn – data visualization
-SciPy – correlation & chi-square tests
-
-Scikit-learn – preprocessing and feature engineering
